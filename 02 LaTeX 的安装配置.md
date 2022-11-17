@@ -1,6 +1,9 @@
 # LaTex 的安装配置
 
 
+
+直接使用在线工具 [latexlive](https://www.latexlive.com/), 下面的废弃
+
 ## 一、TeXLive 下载 
 
 - [TeXLive下载（官网）](http://www.tug.org/texlive/)
