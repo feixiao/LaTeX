@@ -93,11 +93,9 @@ LATEX 的单引号 ‘ ’ 用 `和 ' 输入；双引号 “ ” 用 `` 和 '' �
 
 \begin{document} 
 
-``请关注微信公众号 `钦念博客' 。''
 
 \end{document}
 ```
-![](https://raw.githubusercontent.com/qinnian/FigureBed/master/20200220100730.png)
 
 LATEX 中有三种长度的“横线”可用：
 
